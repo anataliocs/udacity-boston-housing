@@ -1,6 +1,8 @@
 # Project 1: Model Evaluation & Validation
 ## Predicting Boston Housing Prices
 
+Project work for Udacity Nanodegree for Chris Anatalio: [Udacity Profile](https://profiles.udacity.com/u/chrisanatalio)
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:

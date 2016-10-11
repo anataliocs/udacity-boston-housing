@@ -6,6 +6,8 @@ Contact info: anataliocs@gmail.com
 
 Project intro:  https://classroom.udacity.com/nanodegrees/nd009/parts/3d764b58-dc1f-4f7b-b0e1-6b60359e0af4/modules/23930140-07e2-4f75-9dc2-61c8c43567eb/lessons/2291728537/concepts/28772285450923#
 
+http://codedevstuff.blogspot.com/
+
 
 ### Install
 
